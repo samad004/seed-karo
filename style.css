@@ -1,0 +1,257 @@
+.navbar{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 80px; 
+    border-bottom: 5px solid rgb(89, 252, 89);
+
+}
+
+#logoimg{
+    height: 50px;
+}
+
+
+
+.navbar-nav{
+    /* border: 1px solid red; */
+    margin-top: 5px;
+    margin-left: 35%;
+    font-weight: 600;
+}
+nav ul li {
+    /* border: 1px solid red; */
+    /* padding-left: 5px; */
+    padding-right: 5px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.home{
+    /* border: 2px solid red; */
+}
+#homecard{
+    /* border: 5px solid yellow; */
+    height: auto;
+    background-color: rgb(243, 243, 243);
+    
+}
+.card-title{
+    color:  rgb(89, 223, 89);
+    font-weight: 600;
+    font-size: 35px;
+}
+.card-text{
+    font-weight: 700;
+}
+.getstarted{
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(89, 223, 89) ;
+    border-style: none;
+    padding-left: 22px;
+    padding-right: 22px;
+    font-size: 18px;
+    
+}
+
+    
+    
+
+
+#getstarted{
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(89, 223, 89) ;
+    border-style: none;
+    padding-left: 22px;
+    padding-right: 22px;
+    font-size: 18px;
+
+}
+.signupsection{
+    border: 1px solid red;
+    background-image: url(seedkaro-imgs/banner-new1.jpg);
+}
+
+
+h2{
+    color: rgb(89, 223, 89);
+}
+
+
+
+
+#exampleInputEmail1{
+    /* border: 2px solid red; */
+    width: 100%;
+}
+#exampleInputPassword1{
+    width: 100%;
+}
+
+.signup{
+    
+    margin: 70px;
+    
+    
+    padding-right: 300px;
+    padding-left: 180px;
+}
+
+form{
+    border: 1px solid green;
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+
+
+
+.login{
+    border: 2px solid red;
+    margin-top: 20px;
+}
+
+aside{
+    color:  rgb(89, 223, 89);
+    background-color: black;
+    border: 2px solid blue;
+    /* height: auto; */
+}
+.featureheading{
+    text-align: center;
+}
+.featureheading p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.ourfeature{
+    /* border: 1px solid red; */
+    height: 700px;
+}
+.card1{
+    /* border: 1px solid red; */
+    height: 200px;
+    margin-right: 40px;
+    margin-left: 40px;
+    box-shadow: 1px 1px 5px 5px  grey ;
+    
+    
+}
+#founder{
+    display: inline-block;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+#investor{
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+.card1 i{
+    color:  rgb(89, 223, 89);
+    /* border: 1px solid red; */
+    margin-left: 45%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.card-title{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.card-text{
+    font-size: 10px;
+    color: gray;
+    text-align: center;
+    margin-top: 10px;
+}
+#item1{
+    
+    margin-top: 30px;
+}
+#item2 {
+    margin-top: 97px;
+    
+}
+#mobile2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#earn{
+    /* border: 1px solid red; */
+    padding-top: 150px;
+    padding-left: 180px;
+}
+#earn .card-title{
+    color: rgb(89, 223, 89);
+    font-size: 30px;
+}
+#earn button{
+    margin-left: 230px;
+}
+
+.col{
+    /* border: 1px solid green; */
+}
+
+#homecard2{
+    background-color: white;
+}
+
+.aboutus .card-title{
+    /* border: 1px solid red; */
+    color: rgb(89, 223, 89);
+    color: rgb;
+    font-size: 40px;
+    font-weight: 200;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.aboutus p{
+    margin-bottom: 40px;
+}
+.aboutus img{
+    
+    height: 425px;
+    
+    margin-top: 30px;
+    /* margin-right: 100px; */
+    padding-right: 60px;
+}
+.financialsuccess{
+    border: 1px solid red;
+    /* background-image: linear-gradient(to bottom right, rgb(7, 201, 7), rgb(94, 250, 94)); */
+    display: grid;
+    grid-template-columns: 70% 30%;
+    height: 120px;
+    align-items: center;
+    
+    
+
+}
+#successitem2{
+    border: 2px solid red;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
